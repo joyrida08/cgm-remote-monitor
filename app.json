@@ -19,7 +19,7 @@
     },
     "ENABLE": {
       "description": "Space delimited list of optional features to enable, such as 'careportal'.",
-      "value": "",
+      "value": "careportal",
       "required": false
     },
     "ALARM_TYPES": {
